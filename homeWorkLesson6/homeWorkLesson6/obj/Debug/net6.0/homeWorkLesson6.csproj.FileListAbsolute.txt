@@ -1,0 +1,15 @@
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\bin\Debug\net6.0\homeWorkLesson6.exe
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\bin\Debug\net6.0\homeWorkLesson6.deps.json
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\bin\Debug\net6.0\homeWorkLesson6.runtimeconfig.json
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\bin\Debug\net6.0\homeWorkLesson6.dll
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\bin\Debug\net6.0\homeWorkLesson6.pdb
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.csproj.AssemblyReference.cache
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.AssemblyInfoInputs.cache
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.AssemblyInfo.cs
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.csproj.CoreCompileInputs.cache
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.dll
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\refint\homeWorkLesson6.dll
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.pdb
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\homeWorkLesson6.genruntimeconfig.cache
+E:\C#\Lesson6\homeWorkLesson6\homeWorkLesson6\homeWorkLesson6\obj\Debug\net6.0\ref\homeWorkLesson6.dll
